@@ -3,6 +3,7 @@
 I’m a frontend engineer passionate about building scalable, performant, and user-focused web apps. With 9+ years of experience, I enjoy working across the stack—from developer tooling to production-ready UIs—especially when solving real-world challenges.
 
 **🔭 What I’m Working On**
+
 Weather MCP Server
 A TypeScript-based MCP server that provides weather alerts via the MCP (Model Context Protocol)—connects to LLM-powered clients like Claude Desktop for real-time info 🔄.
 

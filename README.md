@@ -1,27 +1,35 @@
 
-## Hi, I'm Sneha 👋
-I’m a frontend engineer passionate about building scalable, performant, and user-focused web apps. With 9+ years of experience, I enjoy working across the stack—from developer tooling to production-ready UIs—especially when solving real-world challenges.
+👋 About Me
 
-**🔭 What I’m Working On**
+I’m a Senior Frontend Engineer with 9+ years of experience designing and building scalable, performant, and data-driven applications. I enjoy transforming complex requirements into clean, intuitive UIs that deliver measurable business impact. My work bridges product design, frontend architecture, and developer experience — with a strong focus on React, TypeScript, and modern build systems.
 
-Weather MCP Server
-A TypeScript-based MCP server that provides weather alerts via the MCP (Model Context Protocol)—connects to LLM-powered clients like Claude Desktop for real-time info 🔄.
+🔭 What I’m Working On
 
-Frontend System Design Docs
-An extensive repository of system design notes: security, testing, caching, performance, accessibility, offline-first patterns, and more—focused on building resilient frontend applications.
+🧠 Smart Study Workflow (WIP)
+An AI-assisted note-to-flashcard workflow that turns handwritten notes into interactive quizzes and spaced repetition cards using n8n for automation and Claude Code for natural language processing. The goal: enhance learning recall through automated knowledge loops.
 
-Audio Screen Recorder
-A JavaScript-based screen + audio recorder demo, exploring browser APIs like RecordRTC & EBML to capture user sessions.
+📊 BFA Dashboard
+A data visualization dashboard built with Chart.js and React, surfacing key performance metrics and enabling real-time insight generation. Focused on accessibility, reusability, and modular architecture.
 
-**🛠️ My Skills & Focus**
-Area	What I Do
-Frontend Development	React, TypeScript, Angular
-Architecture & Design	Component libraries, performance optimizations
-Developer Experience	CI/CD pipelines, error monitoring, tooling
-Open Source & MVPs	Building helpers and demos to learn and share
+🧩 Frontend Patterns & System Design Notes
+A living documentation repo covering frontend architecture patterns, including state management, caching, accessibility, and performance — distilled from real-world production experience.
 
-**🌱 Currently Exploring**
-- AI-/MCP-based integrations for data-driven UIs
-- Enhancing dev workflows with smart tooling and automation
-- Advanced frontend patterns: state machines, offline resilience, progressive web apps
+🎙️ Browser Recorder Toolkit
+Exploring browser APIs like RecordRTC and Web Audio API to capture and analyze user sessions, aimed at improving UX insights and debugging workflows.
+
+🛠️ Focus Areas
+
+Frontend Engineering – React, TypeScript, Next.js, Angular, Tailwind, GraphQL
+Architecture & Design – Component systems, scalability, performance tuning
+Developer Experience – CI/CD, monitoring, testing, design systems
+Data Visualization – Chart.js, D3, analytics dashboards
+AI-Powered Workflows – n8n, OpenAI SDK , Claude API integrations
+
+🌱 Currently Exploring
+
+AI-driven developer tooling and workflow automation
+
+Frontend observability: integrating error tracking, metrics, and real-time logs
+
+Offline-first and resilient UI architectures for data-heavy applications
 

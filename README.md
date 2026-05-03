@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sneha Pidugu</h1>
 <h3 align="center">Senior Front-End Engineer turned AI Application Builder. 10+ years shipping polished UIs — now building LangGraph agents, RAG pipelines, and intelligent tools for real-world workflows. Based in Germany. 🇩🇪</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sneharao" alt="sneharao" /></a> </p>
-
 - 🔭 I’m currently working on [AI Job Outreach](https://github.com/sneharao/AI_Job_Outreach)
 
 - 👨‍💻 All of my projects are available at [https://sneha-rao.de/](https://sneha-rao.de/)
@@ -15,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sneha rao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sneha rao" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sneha-rao-p/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sneha-rao-p/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
